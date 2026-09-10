@@ -45,6 +45,8 @@ The app reads the ESV Markdown corpus in `by_book/` at runtime. Each file is a
 book, with H1 book headings, H2 chapter headings, and numbered verse lines.
 The source data is included locally; BibleType does not make network requests.
 
+Credits to https://github.com/lguenth/mdbible for the original md files
+
 ## Tests
 
 Run the standard-library test suite with:
